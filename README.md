@@ -1,4 +1,4 @@
-# Manual QA Portfolio — Alison Kate
+# Manual QA Portfolio — Alison Kate Lachica
 
 This repository contains manual QA test artifacts I created while 
 testing SauceDemo (saucedemo.com), a practice e-commerce web application.
@@ -39,6 +39,24 @@ My current focus is on:
 
 ---
 
+## Test Artifacts
+
+### Test Plan
+- [SauceDemo Test Plan](test-plan/saucedemo-test-plan.md)
+
+### Test Cases
+- [Login Test Cases](test-cases/login-test-cases.md)
+- [Cart Test Cases](test-cases/cart-test-cases.md)
+
+### Bug Reports
+- [BUG-001 — Locked out error message](bug-reports/bug-001.md#bug-001)
+- [BUG-002 — Cart persists after logout](bug-reports/bug-001.md#bug-002)
+
+### Test Summary
+- [Sprint 1 Summary Report](test-summary/sprint-1-summary.md)
+
+---
+
 ## What I Tested
 
 - Login and logout functionality
@@ -51,8 +69,8 @@ My current focus is on:
 ## Tools Used
 
 - Markdown for documentation
-- Google Sheets for test case tracking
 - STLC as the testing framework
+- Chrome on Windows
 
 ---
 
